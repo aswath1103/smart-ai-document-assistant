@@ -1,0 +1,7 @@
+{
+  "name": "DocuPulse RAG Intelligence",
+  "description": "Production-grade Document Intelligence and Grounded RAG workbench with strict anti-hallucination guardrails, interactive citations, and an actionable execution engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
